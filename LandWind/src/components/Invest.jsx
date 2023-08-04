@@ -33,34 +33,34 @@ const Invest = () => {
                         </div>
                     </div>
                     {/* Right Section */}
-                    <div className='flex justify-center py-5'>
+                    <div className='flex  py-5 '>
                         {/* <img src="/assets/Data.svg" alt="" className='h-auto' />
                          */}
                         <div>
                             {/* Top */}
-                            <div className='flex gap-5'>
-                                <div className='p-4'>
-                                    <IoIosSwitch size={30} />
-                                    <p>99.99% uptime</p>
-                                    <p>for Landwind, with zero maintannce</p>
+                            <div className='sm:flex sm:gap-5'>
+                                <div className='p-4 flex flex-col gap-3 shadow-lg rounded-md'>
+                                    <IoIosSwitch size={35} fill='#8B8ABB' />
+                                    <p className='text-xl md:text-2xl font-bold'>99.99% uptime</p>
+                                    <p className='text-lg md:text-xl font-light text-gray-500' >For Landwind, with zero maintannce</p>
                                 </div>
-                                <div className='p-4'>
-                                    <IoIosSwitch size={30} />
-                                    <p>600M+ Users</p>
-                                    <p>Trusted by over 600 million users around the world</p>
+                                <div className='p-4 flex flex-col gap-3 shadow-lg rounded-md'>
+                                    <IoIosSwitch size={35} fill='#8B8ABB' />
+                                    <p className='text-xl md:text-2xl font-bold'>99.99% uptime</p>
+                                    <p className='text-lg md:text-xl font-light text-gray-500' >For Landwind, with zero maintannce</p>
                                 </div>
                             </div>
                             {/* Bottom */}
-                            <div className='flex'>
-                                <div className='p-4'>
-                                    <IoIosSwitch size={30} />
-                                    <p>100+ countries</p>
-                                    <p>Have used Landwind to create functional websites</p>
+                            <div className='sm:flex sm:gap-5'>
+                                <div className='p-4 flex flex-col gap-3 shadow-lg rounded-md'>
+                                    <IoIosSwitch size={35} fill='#8B8ABB' />
+                                    <p className='text-xl md:text-2xl font-bold'>99.99% uptime</p>
+                                    <p className='text-lg md:text-xl font-light text-gray-500' >For Landwind, with zero maintannce</p>
                                 </div>
-                                <div className='p-4'>
-                                    <IoIosSwitch size={30} />
-                                    <p>5+ Million </p>
-                                    <p>Transactions per day</p>
+                                <div className='p-4 flex flex-col gap-3 shadow-lg rounded-md'>
+                                    <IoIosSwitch size={35} fill='#8B8ABB' />
+                                    <p className='text-xl md:text-2xl font-bold'>99.99% uptime</p>
+                                    <p className='text-lg md:text-xl font-light text-gray-500' >For Landwind, with zero maintannce</p>
                                 </div>
                             </div>
                         </div>

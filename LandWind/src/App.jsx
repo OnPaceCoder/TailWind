@@ -1,3 +1,6 @@
+import Footer from "./components/Footer"
+import FooterLinks from "./components/FooterLinks"
+import FreeTrial from "./components/FreeTrial"
 import Hero from "./components/Hero"
 import Invest from "./components/Invest"
 import Navbar from "./components/Navbar"
@@ -17,6 +20,9 @@ function App() {
       <World />
       <Invest />
       <Testimonial />
+      <FreeTrial />
+      <FooterLinks />
+
     </>
   )
 }

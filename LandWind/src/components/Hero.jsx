@@ -13,7 +13,7 @@ const Hero = () => {
                             <p className='text-5xl font-extrabold'>Building digital products & brands.</p>
                         </div>
                         <div>
-                            <p className='text-xl text-gray-400 font-light'>This free and open-source landing page template was built using the utility classes from Tailwind CSS and based on the components from the Flowbite Library and the Blocks System.</p>
+                            <p className='text-xl text-gray-400 font-light'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae hic maxime ex, eius ullam, magnam inventore officiis, fugit voluptates itaque a! Porro, suscipit? Repellat, voluptatum?</p>
                         </div>
                         <div className='flex gap-5 '>
                             <button className='button px-5 py-4 bg-gray-100 hover:bg-gray-400 hover:text-white rounded-lg'>View on Github</button>
