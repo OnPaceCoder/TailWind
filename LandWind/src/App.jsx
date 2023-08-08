@@ -1,3 +1,4 @@
+import Faq from "./components/Faq"
 import Footer from "./components/Footer"
 import FooterLinks from "./components/FooterLinks"
 import FreeTrial from "./components/FreeTrial"
@@ -20,6 +21,7 @@ function App() {
       <World />
       <Invest />
       <Testimonial />
+      <Faq />
       <FreeTrial />
       <FooterLinks />
 
